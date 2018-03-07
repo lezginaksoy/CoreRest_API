@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Repository\bin\Debug\netcoreapp1.1\CoreRest.Repository.deps.json
 C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Repository\bin\Debug\netcoreapp1.1\CoreRest.Repository.dll
 C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Repository\bin\Debug\netcoreapp1.1\CoreRest.Repository.pdb
@@ -18,3 +19,15 @@ C:\Users\la185067\Projects\CoreRestApi_AddSwagger\CoreRest.Repository\obj\Debug\
 C:\Users\la185067\Projects\CoreRestApi_AddSwagger\CoreRest.Repository\obj\Debug\netcoreapp1.1\CoreRest.Repository.AssemblyInfo.cs
 C:\Users\la185067\Projects\CoreRestApi_AddSwagger\CoreRest.Repository\obj\Debug\netcoreapp1.1\CoreRest.Repository.dll
 C:\Users\la185067\Projects\CoreRestApi_AddSwagger\CoreRest.Repository\obj\Debug\netcoreapp1.1\CoreRest.Repository.pdb
+=======
+C:\Users\la185067\Projects\CoreRESTApi\CoreRest.Repository\bin\Debug\netcoreapp1.1\CoreRest.Repository.deps.json
+C:\Users\la185067\Projects\CoreRESTApi\CoreRest.Repository\bin\Debug\netcoreapp1.1\CoreRest.Repository.dll
+C:\Users\la185067\Projects\CoreRESTApi\CoreRest.Repository\bin\Debug\netcoreapp1.1\CoreRest.Repository.pdb
+C:\Users\la185067\Projects\CoreRESTApi\CoreRest.Repository\bin\Debug\netcoreapp1.1\CoreRest.Model.dll
+C:\Users\la185067\Projects\CoreRESTApi\CoreRest.Repository\bin\Debug\netcoreapp1.1\CoreRest.Model.pdb
+C:\Users\la185067\Projects\CoreRESTApi\CoreRest.Repository\obj\Debug\netcoreapp1.1\CoreRest.Repository.csprojResolveAssemblyReference.cache
+C:\Users\la185067\Projects\CoreRESTApi\CoreRest.Repository\obj\Debug\netcoreapp1.1\CoreRest.Repository.csproj.CoreCompileInputs.cache
+C:\Users\la185067\Projects\CoreRESTApi\CoreRest.Repository\obj\Debug\netcoreapp1.1\CoreRest.Repository.AssemblyInfo.cs
+C:\Users\la185067\Projects\CoreRESTApi\CoreRest.Repository\obj\Debug\netcoreapp1.1\CoreRest.Repository.dll
+C:\Users\la185067\Projects\CoreRESTApi\CoreRest.Repository\obj\Debug\netcoreapp1.1\CoreRest.Repository.pdb
+>>>>>>> 260063ffb7cad76efab1d4e31aace4f346ab4158

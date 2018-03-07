@@ -1,0 +1,10 @@
+C:\Users\la185067\Projects\CoreRESTApi\CoreRESTApi\bin\Debug\netcoreapp1.1\CoreRest.Api.deps.json
+C:\Users\la185067\Projects\CoreRESTApi\CoreRESTApi\bin\Debug\netcoreapp1.1\CoreRest.Api.runtimeconfig.json
+C:\Users\la185067\Projects\CoreRESTApi\CoreRESTApi\bin\Debug\netcoreapp1.1\CoreRest.Api.runtimeconfig.dev.json
+C:\Users\la185067\Projects\CoreRESTApi\CoreRESTApi\bin\Debug\netcoreapp1.1\CoreRest.Api.dll
+C:\Users\la185067\Projects\CoreRESTApi\CoreRESTApi\bin\Debug\netcoreapp1.1\CoreRest.Api.pdb
+C:\Users\la185067\Projects\CoreRESTApi\CoreRESTApi\obj\Debug\netcoreapp1.1\CoreRest.Api.csprojResolveAssemblyReference.cache
+C:\Users\la185067\Projects\CoreRESTApi\CoreRESTApi\obj\Debug\netcoreapp1.1\CoreRest.Api.csproj.CoreCompileInputs.cache
+C:\Users\la185067\Projects\CoreRESTApi\CoreRESTApi\obj\Debug\netcoreapp1.1\CoreRest.Api.AssemblyInfo.cs
+C:\Users\la185067\Projects\CoreRESTApi\CoreRESTApi\obj\Debug\netcoreapp1.1\CoreRest.Api.dll
+C:\Users\la185067\Projects\CoreRESTApi\CoreRESTApi\obj\Debug\netcoreapp1.1\CoreRest.Api.pdb

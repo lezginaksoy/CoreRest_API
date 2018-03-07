@@ -7045,11 +7045,19 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\la185067\\Projects\\CoreRestApi\\CoreRest.Model\\CoreRest.Model.csproj",
       "projectName": "CoreRest.Model",
       "projectPath": "C:\\Users\\la185067\\Projects\\CoreRestApi\\CoreRest.Model\\CoreRest.Model.csproj",
       "packagesPath": "C:\\Users\\la185067\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\la185067\\Projects\\CoreRestApi\\CoreRest.Model\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\la185067\\Projects\\CoreRESTApi\\CoreRest.Model\\CoreRest.Model.csproj",
+      "projectName": "CoreRest.Model",
+      "projectPath": "C:\\Users\\la185067\\Projects\\CoreRESTApi\\CoreRest.Model\\CoreRest.Model.csproj",
+      "packagesPath": "C:\\Users\\la185067\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\la185067\\Projects\\CoreRESTApi\\CoreRest.Model\\obj\\",
+>>>>>>> 260063ffb7cad76efab1d4e31aace4f346ab4158
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\la185067\\AppData\\Roaming\\NuGet\\NuGet.Config",
